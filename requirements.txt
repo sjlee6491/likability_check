@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+Korpora
+tensorflow
+spacy
+neattext
+textblob
+seaborn
+wordcloud
